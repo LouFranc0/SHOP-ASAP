@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.UI.WebControls;
 
-namespace lezione60z
+namespace APPL5
 {
     public partial class Cart : System.Web.UI.Page
     {
