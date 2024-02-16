@@ -11,7 +11,7 @@ namespace APPL5
 {
 
 
-    public partial class home
+    public partial class Home
     {
 
         /// <summary>
