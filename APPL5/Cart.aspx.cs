@@ -77,7 +77,7 @@ namespace lezione60z
 
         protected void ViewHome_Click(object sender, EventArgs e)
         {
-            Response.Redirect("home.aspx");
+            Response.Redirect("Home.aspx");
         }
 
     }
