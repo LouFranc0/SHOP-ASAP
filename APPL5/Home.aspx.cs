@@ -46,7 +46,7 @@ namespace APPL5
         {
             Button btn = (Button)sender;
             int productId = Convert.ToInt32(btn.CommandArgument);
-            Response.Redirect($"ProductDetails.aspx?ID={productId}");
+            Response.Redirect($"Details.aspx?ID={productId}");
         }
 
         protected void ViewCart_Click(object sender, EventArgs e)
